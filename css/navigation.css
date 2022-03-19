@@ -1,0 +1,55 @@
+
+#navigation_menu 
+{
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 0;
+    overflow: hidden;
+    width: 700px;
+    /* Background Colour */
+    /*background-color: red;*/
+}
+
+#navigation_menu_list 
+{
+    float: left;
+	display: inline;
+}
+
+#navigation_menu_list a 
+{
+    display: inline-block;
+    color: black;
+    text-align: center;
+    padding-top: 5px;
+    padding-right: 0px;
+    padding-bottom: 5px;
+    padding-right: 0px;
+    text-decoration: none;
+    width: 150px;
+    /* Text Colour*/
+    /*color: red;*/
+}
+
+/* On Hover */
+#navigation_menu_list a:hover 
+{
+    /*background-color: #111;*/
+    /*color:red;*/
+}
+
+/* On Pressed */
+#navigation_menu_list a:active 
+{
+}
+
+/* Highlight current page with the id 'active' */
+#navigation_menu_list a#active 
+{
+    color:black;
+}
+
+#navigation_menu_list a#inactive 
+{
+    color:grey;
+}
