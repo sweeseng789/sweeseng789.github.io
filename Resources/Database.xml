@@ -4,7 +4,7 @@
     <post id="11">
 		<title>Mobile Scanner</title>
         <date>11/6/2023</date>
-        <media tag="img" src="resources/Mobile Scanner/CK65 1600 x 1600px.jpg" height="500"></media>
+        <media tag="img" src="Resources/Mobile Scanner/CK65 1600 x 1600px.jpg" height="500"></media>
 
         <description>
             <![CDATA[
@@ -46,7 +46,7 @@
 	<post id="10">
 		<title>AGV Project</title>
         <date>11/6/2023</date>
-        <media tag="img" src="resources/AGV Project/AGV 234 x 169px.png" width="500"></media>
+        <media tag="img" src="Resources/AGV Project/AGV 234 x 169px.png" width="500"></media>
 
         <description>
             <![CDATA[
@@ -147,9 +147,9 @@
     <post id="8">
         <title>Montblanc Timewalker Prix</title>
         <date>4/4/2020</date>
-        <media tag="img" src="resources/Montblanc Timewalker Prix/Montblanc 1 1024 x 376px.jpg" width="500"></media>
-        <media tag="img" src="resources/Montblanc Timewalker Prix/Montblanc 2 1024 x 376px.jpg" width="500"></media>
-        <media tag="img" src="resources/Montblanc Timewalker Prix/Montblanc 3 1024 x 376px.jpg" width="500"></media>
+        <media tag="img" src="Resources/Montblanc Timewalker Prix/Montblanc 1 1024 x 376px.jpg" width="500"></media>
+        <media tag="img" src="Resources/Montblanc Timewalker Prix/Montblanc 2 1024 x 376px.jpg" width="500"></media>
+        <media tag="img" src="Resources/Montblanc Timewalker Prix/Montblanc 3 1024 x 376px.jpg" width="500"></media>
         
         <description>
             <![CDATA[
