@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="utf-8" ?>
 
 <database>
+    <post id="11">
+		<title>Mobile Scanner</title>
+        <date>11/6/2023</date>
+
+        <description>
+        </description>
+	</post>
+
+	<post id="10">
+		<title>AGV Project</title>
+        <date>11/6/2023</date>
+
+        <description>
+        </description>
+	</post>
+
     <post id="9">
         <title>Unilever AR Experience</title>
         <date>4/4/2020</date>
