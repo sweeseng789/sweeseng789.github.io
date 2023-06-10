@@ -21,13 +21,16 @@
         {
             document.title = "Home";
 
-            $('.header').load('template/header.html');
+            $('.header').load('template/header.html', function() 
+            {
+                $('.overlay').show();
+            });
             $('.footer').load('template/footer.html'); 
 
             $.ajax
             ({
                 type: "GET",
-                url: "/resources/Database.xml",
+                url: "Resources/Database.xml",
                 dataType: "xml",
                 cache: false,
                 error: function(xhr, status, error) {console.log(status);},
@@ -80,7 +83,7 @@
                         var displayMediaWidth = displayMedia.css("width");
                         var displayMediaHeight = displayMedia.css("height");
 
-                        var attr = GenerateMediaAttrFromXML(media);
+                        var attr =GenerateMediaAttrFromXML(media);
 
                         var widthRatio = parseFloat(displayMediaWidth) / parseFloat(attr["width"]);
                         var newHeight = parseFloat(attr["height"]) * widthRatio;
@@ -102,11 +105,12 @@
 
                         // Set Read More button
                         var url = SetUrlParameters("single-post.html", 
-                                                   "?",
-                                                   "id=" + id,
-                                                   "date=" + date.text());
+                                                    "?",
+                                                    "id=" + id,
+                                                    "date=" + date.text());
                         readmoreBtn.attr("href", url);
                     });
+                    $('.overlay').hide();
                 }
             });
         }

@@ -397,7 +397,7 @@ body
 	cursor: pointer; /* Add a mouse pointer on hover */
 
 	background: none;
-	background-image: url('../resources/Contact/Contact Icon 256 x 256px.png');
+	background-image: url('../Resources/Contact Icon 256 x 256px.png');
 	background-size: auto;
 
 	width:40px; 
@@ -410,21 +410,21 @@ body
 {
 	bottom: 80px;
 	display: none;
-	background-image: url("../resources/Contact/Whatapps Icon 256 x 256px.png");
+	background-image: url("../Resources/Whatapps Icon 256 x 256px.png");
 }
 
 .contactSticky#email
 {
 	bottom: 140px;
 	display: none;
-	background-image: url("../resources/Contact/Email Icon 256 x 256px.png");
+	background-image: url("../Resources/Email Icon 256 x 256px.png");
 }
 
 .contactSticky#linkedin
 {
 	bottom: 200px;
 	display: none;
-	background-image: url("../resources/Contact/Linkedin Icon 256 x 256px.png");
+	background-image: url("../Resources/Linkedin Icon 256 x 256px.png");
 }
 
 /**** Overlay ****/
