@@ -1,6 +1,98 @@
 <?xml version="1.0" encoding="utf-8" ?>
 
 <database>
+    <post id="11">
+		<title>Mobile Scanner</title>
+        <date>11/6/2023</date>
+        <media tag="img" src="resources/Mobile Scanner/CK65 1600 x 1600px.jpg" height="500"></media>
+
+        <description>
+            <![CDATA[
+            <b>Framework:</b> Xamarin.Forms, WinForms, ASMX WebServices<br>
+            <b>Coding Language:</b> C#, Java<br>
+            <b>Platform:</b> Android, Windows Mobile, Web Service (ASMX)
+            <br>
+            <br>
+            <b>Description</b><br>
+            As part of my tenure at ASE Singapore, I was responsible for the creation, integration, and maintenance of multiple mobile scanning applications.
+            <br>
+            <br>
+            The purpose of the mobile scanner applications is to ensure that the correct items are processed with minimal human intervention through automation.
+            <br>
+            I was mainly responsible for CK3(Windows Mobile) and CK65(Android).
+            <br>
+            <br>
+            <b>Learning Points:</b><br>
+            <ul>
+                <li>Symbologies</li>
+                <ul>
+                    <li>
+                        Through this project, I learn that there are multiple scanning formats and they each have different use case.
+                    </li>
+                </ul>
+
+                <li>General Scanner Functionality</li>
+                <ul>
+                    <li>
+                        Due to each company having their own SDK to read the scanned value, I was made known the importance of creating a generic function that is able to read the scanned value for different devices.
+                        So that in the event I have to swap to another device, I do not have to spend time creating another function to read the scanned value for that specific device.
+                    </li>
+                </ul>
+            </ul>
+            ]]>
+        </description>
+	</post>
+
+	<post id="10">
+		<title>AGV Project</title>
+        <date>11/6/2023</date>
+        <media tag="img" src="resources/AGV Project/AGV 234 x 169px.png" width="500"></media>
+
+        <description>
+            <![CDATA[
+            <b>Framework:</b> Xamarin.Forms, ASP.NET<br>
+            <b>Coding Language:</b> C#, Java<br>
+            <b>Platform:</b> Android, WPF, Web Service (RESTful)
+            <br>
+            <br>
+            <b>Description</b><br>
+            The AGV project was conceptualized with the aim to streamline and optimize the company's internal process.
+            <br>
+            AGVs are equipped with sensors, cameras, and navigation system, which is responsible for the transportation of goods from one location to another, minimizing manual intervention and improving efficiency.
+            <br>
+            An Android app is developed to provide a user-friendly interface to control the AGV, and is accompanied by a RESTful web service that would facilitate communicate between the AGV's system and Android app.
+            <br>
+            <br>
+            <b>Learning Points:</b><br>
+            <ul>
+                <li>Xamarin.Forms</li>
+                <ul>
+                    <li>
+                        This is my first experience using Xamarin.Forms in a full project and also allowed me to learn about full-stack development and MVVM design pattern
+                    </li>
+                </ul>
+
+                <li>Native Android Function</li>
+                <ul>
+                    <li>
+                        Even though Xamarin.Forms supports Android, it is still lacking in the platform-specified aspect of it, such as Bluetooth, Notification, and such.
+                    </li>
+                    <li>
+                        I had to integrate native Android functions and yet still make it accessible in the ViewModel(VM) portion of MVVM.
+                    </li>
+                </ul>
+
+                <li>RESTful Service</li>
+                <ul>
+                    <li>
+                        My first time using and consuming RESTful services, which allowed me to appreciate the flexibility of it, as it allows usage across different OS and platforms.
+                    </li>
+                </ul>
+            </ul>
+            ]]>
+        </description>
+	</post>
+
     <post id="9">
         <title>Unilever AR Experience</title>
         <date>4/4/2020</date>
