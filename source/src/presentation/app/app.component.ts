@@ -1,7 +1,8 @@
 import { Component } from '@angular/core';
-import { HeaderComponent } from './template/header/header.component';
+import { HeaderComponent } from './view/template/header/header.component';
 
 import { Router, RouterModule } from '@angular/router';
+import { NavigationService } from './service/native/navigation/navigation.service';
 
 @Component({
   selector: 'app-root',
@@ -31,7 +32,7 @@ import { Router, RouterModule } from '@angular/router';
 
 export class AppComponent {
 
-  constructor(private router: Router) { }
+  constructor(private router: Router, public navigationService: NavigationService) { }
 
   public goToHome(): void {
     this.router.navigate(["/about"]);

@@ -1,2 +1,4 @@
 D:\Projects\sweeseng789.github.io\source\obj\Debug\sweeseng789.github.io.Angular.esproj.SuggestedBindingRedirects.cache
 D:\Projects\sweeseng789.github.io\source\obj\Debug\sweeseng789.github.io.Angular.esproj.CoreCompileInputs.cache
+C:\Users\swees\Desktop\sweeseng789.github.io\source\obj\Debug\sweeseng789.github.io.Angular.esproj.SuggestedBindingRedirects.cache
+C:\Users\swees\Desktop\sweeseng789.github.io\source\obj\Debug\sweeseng789.github.io.Angular.esproj.CoreCompileInputs.cache
