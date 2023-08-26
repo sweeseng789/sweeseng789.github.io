@@ -1,7 +1,7 @@
-import { Component, ElementRef, ViewChild } from '@angular/core';
 import { CommonModule } from '@angular/common';
+import { Component, ElementRef, ViewChild } from '@angular/core';
+import { Route, RouterModule } from '@angular/router';
 import { NavigationService } from '../../../service/native/navigation/navigation.service';
-import { Route, Router, RouterModule } from '@angular/router';
 
 @Component({
   selector: 'app-header',
