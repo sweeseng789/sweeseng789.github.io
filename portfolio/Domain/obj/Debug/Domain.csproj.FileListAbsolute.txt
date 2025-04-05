@@ -1,0 +1,6 @@
+E:\Projects\sweeseng789.bitbucket.io\Portfolio\Domain\bin\Debug\Domain.dll
+E:\Projects\sweeseng789.bitbucket.io\Portfolio\Domain\bin\Debug\Domain.pdb
+E:\Projects\sweeseng789.bitbucket.io\Portfolio\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+E:\Projects\sweeseng789.bitbucket.io\Portfolio\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+E:\Projects\sweeseng789.bitbucket.io\Portfolio\Domain\obj\Debug\Domain.dll
+E:\Projects\sweeseng789.bitbucket.io\Portfolio\Domain\obj\Debug\Domain.pdb

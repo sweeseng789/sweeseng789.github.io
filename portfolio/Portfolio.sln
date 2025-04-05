@@ -1,0 +1,96 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{17F66096-D3CC-4F5F-B5CC-9A5F71000153}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Angular", "Angular", "{47B8B54D-A084-4C3F-92ED-61D9DBB3E4F7}"
+	ProjectSection(SolutionItems) = preProject
+		Presentation\Angular\favicon.ico = Presentation\Angular\favicon.ico
+		Presentation\Angular\index.html = Presentation\Angular\index.html
+		Presentation\Angular\main-BSIO54AN.js = Presentation\Angular\main-BSIO54AN.js
+		Presentation\Angular\polyfills-RT5I6R6G.js = Presentation\Angular\polyfills-RT5I6R6G.js
+		Presentation\Angular\styles-5INURTSO.css = Presentation\Angular\styles-5INURTSO.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{3A326AD8-3008-4123-811F-FC55375A9889}"
+	ProjectSection(SolutionItems) = preProject
+		Presentation\Angular\src\.editorconfig = Presentation\Angular\src\.editorconfig
+		Presentation\Angular\src\.gitignore = Presentation\Angular\src\.gitignore
+		Presentation\Angular\src\angular.json = Presentation\Angular\src\angular.json
+		Presentation\Angular\src\deploy.js = Presentation\Angular\src\deploy.js
+		Presentation\Angular\src\package-lock.json = Presentation\Angular\src\package-lock.json
+		Presentation\Angular\src\package.json = Presentation\Angular\src\package.json
+		Presentation\Angular\src\README.md = Presentation\Angular\src\README.md
+		Presentation\Angular\src\server.ts = Presentation\Angular\src\server.ts
+		Presentation\Angular\src\tsconfig.app.json = Presentation\Angular\src\tsconfig.app.json
+		Presentation\Angular\src\tsconfig.json = Presentation\Angular\src\tsconfig.json
+		Presentation\Angular\src\tsconfig.spec.json = Presentation\Angular\src\tsconfig.spec.json
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "project", "project", "{3766F6BA-6F59-4593-8741-AD88FD48B453}"
+	ProjectSection(SolutionItems) = preProject
+		Presentation\Angular\src\project\favicon.ico = Presentation\Angular\src\project\favicon.ico
+		Presentation\Angular\src\project\index.html = Presentation\Angular\src\project\index.html
+		Presentation\Angular\src\project\main.server.ts = Presentation\Angular\src\project\main.server.ts
+		Presentation\Angular\src\project\main.ts = Presentation\Angular\src\project\main.ts
+		Presentation\Angular\src\project\styles.css = Presentation\Angular\src\project\styles.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "app", "app", "{8D5184DF-9383-4081-8777-1986F763517F}"
+	ProjectSection(SolutionItems) = preProject
+		Presentation\Angular\src\project\app\app.component.css = Presentation\Angular\src\project\app\app.component.css
+		Presentation\Angular\src\project\app\app.component.html = Presentation\Angular\src\project\app\app.component.html
+		Presentation\Angular\src\project\app\app.component.spec.ts = Presentation\Angular\src\project\app\app.component.spec.ts
+		Presentation\Angular\src\project\app\app.component.ts = Presentation\Angular\src\project\app\app.component.ts
+		Presentation\Angular\src\project\app\app.config.server.ts = Presentation\Angular\src\project\app\app.config.server.ts
+		Presentation\Angular\src\project\app\app.config.ts = Presentation\Angular\src\project\app\app.config.ts
+		Presentation\Angular\src\project\app\app.routes.ts = Presentation\Angular\src\project\app\app.routes.ts
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Presentation\Shared\Shared.csproj", "{C4EE3435-05ED-405E-9485-745C9F80B121}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{3D879B0C-AEDF-4245-9C2D-E7EEC958B98C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{00B9BE34-186A-4B1D-B94E-88DDDBEBCC80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{9A6C6467-77C6-4829-A222-0EC1AB206144}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4EE3435-05ED-405E-9485-745C9F80B121}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4EE3435-05ED-405E-9485-745C9F80B121}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4EE3435-05ED-405E-9485-745C9F80B121}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4EE3435-05ED-405E-9485-745C9F80B121}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D879B0C-AEDF-4245-9C2D-E7EEC958B98C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D879B0C-AEDF-4245-9C2D-E7EEC958B98C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D879B0C-AEDF-4245-9C2D-E7EEC958B98C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D879B0C-AEDF-4245-9C2D-E7EEC958B98C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00B9BE34-186A-4B1D-B94E-88DDDBEBCC80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00B9BE34-186A-4B1D-B94E-88DDDBEBCC80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00B9BE34-186A-4B1D-B94E-88DDDBEBCC80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00B9BE34-186A-4B1D-B94E-88DDDBEBCC80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A6C6467-77C6-4829-A222-0EC1AB206144}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A6C6467-77C6-4829-A222-0EC1AB206144}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A6C6467-77C6-4829-A222-0EC1AB206144}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A6C6467-77C6-4829-A222-0EC1AB206144}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{47B8B54D-A084-4C3F-92ED-61D9DBB3E4F7} = {17F66096-D3CC-4F5F-B5CC-9A5F71000153}
+		{3A326AD8-3008-4123-811F-FC55375A9889} = {47B8B54D-A084-4C3F-92ED-61D9DBB3E4F7}
+		{3766F6BA-6F59-4593-8741-AD88FD48B453} = {3A326AD8-3008-4123-811F-FC55375A9889}
+		{8D5184DF-9383-4081-8777-1986F763517F} = {3766F6BA-6F59-4593-8741-AD88FD48B453}
+		{C4EE3435-05ED-405E-9485-745C9F80B121} = {17F66096-D3CC-4F5F-B5CC-9A5F71000153}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7485615D-E7E2-4930-AE82-72228E7FFB63}
+	EndGlobalSection
+EndGlobal

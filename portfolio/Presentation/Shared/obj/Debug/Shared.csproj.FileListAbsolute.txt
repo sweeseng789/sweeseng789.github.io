@@ -1,0 +1,13 @@
+E:\Projects\sweeseng789.bitbucket.io\Portfolio\Presentation\Shared\bin\Debug\Shared.dll
+E:\Projects\sweeseng789.bitbucket.io\Portfolio\Presentation\Shared\bin\Debug\Shared.pdb
+E:\Projects\sweeseng789.bitbucket.io\Portfolio\Presentation\Shared\bin\Debug\Application.dll
+E:\Projects\sweeseng789.bitbucket.io\Portfolio\Presentation\Shared\bin\Debug\Domain.dll
+E:\Projects\sweeseng789.bitbucket.io\Portfolio\Presentation\Shared\bin\Debug\Infrastructure.dll
+E:\Projects\sweeseng789.bitbucket.io\Portfolio\Presentation\Shared\bin\Debug\Application.pdb
+E:\Projects\sweeseng789.bitbucket.io\Portfolio\Presentation\Shared\bin\Debug\Domain.pdb
+E:\Projects\sweeseng789.bitbucket.io\Portfolio\Presentation\Shared\bin\Debug\Infrastructure.pdb
+E:\Projects\sweeseng789.bitbucket.io\Portfolio\Presentation\Shared\obj\Debug\Shared.csproj.AssemblyReference.cache
+E:\Projects\sweeseng789.bitbucket.io\Portfolio\Presentation\Shared\obj\Debug\Shared.csproj.CoreCompileInputs.cache
+E:\Projects\sweeseng789.bitbucket.io\Portfolio\Presentation\Shared\obj\Debug\Shared.csproj.Up2Date
+E:\Projects\sweeseng789.bitbucket.io\Portfolio\Presentation\Shared\obj\Debug\Shared.dll
+E:\Projects\sweeseng789.bitbucket.io\Portfolio\Presentation\Shared\obj\Debug\Shared.pdb
