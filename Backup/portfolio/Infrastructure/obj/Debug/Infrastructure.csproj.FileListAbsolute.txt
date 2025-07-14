@@ -1,6 +1,0 @@
-E:\Projects\sweeseng789.bitbucket.io\Portfolio\Infrastructure\bin\Debug\Infrastructure.dll
-E:\Projects\sweeseng789.bitbucket.io\Portfolio\Infrastructure\bin\Debug\Infrastructure.pdb
-E:\Projects\sweeseng789.bitbucket.io\Portfolio\Infrastructure\obj\Debug\Infrastructure.csproj.AssemblyReference.cache
-E:\Projects\sweeseng789.bitbucket.io\Portfolio\Infrastructure\obj\Debug\Infrastructure.csproj.CoreCompileInputs.cache
-E:\Projects\sweeseng789.bitbucket.io\Portfolio\Infrastructure\obj\Debug\Infrastructure.dll
-E:\Projects\sweeseng789.bitbucket.io\Portfolio\Infrastructure\obj\Debug\Infrastructure.pdb

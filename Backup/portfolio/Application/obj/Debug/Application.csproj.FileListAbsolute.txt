@@ -1,6 +1,0 @@
-E:\Projects\sweeseng789.bitbucket.io\Portfolio\Application\bin\Debug\Application.dll
-E:\Projects\sweeseng789.bitbucket.io\Portfolio\Application\bin\Debug\Application.pdb
-E:\Projects\sweeseng789.bitbucket.io\Portfolio\Application\obj\Debug\Application.csproj.AssemblyReference.cache
-E:\Projects\sweeseng789.bitbucket.io\Portfolio\Application\obj\Debug\Application.csproj.CoreCompileInputs.cache
-E:\Projects\sweeseng789.bitbucket.io\Portfolio\Application\obj\Debug\Application.dll
-E:\Projects\sweeseng789.bitbucket.io\Portfolio\Application\obj\Debug\Application.pdb
